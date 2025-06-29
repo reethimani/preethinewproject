@@ -1,0 +1,152 @@
+body {
+    background-color:#cebebe;
+}
+
+img.butter {
+    height: 150px;
+    width: 150px;
+    margin-left: 1000px;
+    padding-top: 50px;
+}
+
+
+
+
+img.font {
+    text-align: center;
+  padding-left: 400px;
+    padding-bottom: 100px;
+    image-orientation: flip;
+}
+
+div.div0{
+    background-color: #d5b9b2;
+    margin-left: -10px;
+    margin-right: -10px;
+
+
+}
+.font
+{
+    align-items: center;
+    padding-top: 0px;
+}
+.navbar{
+    position: sticky;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#6d2e46;
+    display: flex;
+    
+
+}
+
+li {
+    float: right;
+    
+
+}
+
+li a {
+    display: block;
+    color: #FBFBFB;
+    
+    padding: 14px;
+    text-decoration: none;
+    
+    
+}
+
+nav {
+    margin-top: -50px;
+   margin-right: -6px;
+    z-index: 1;
+   
+
+
+}
+.navbar{
+     position: sticky;
+    top: 0px;
+    padding: 10x;
+    z-index: 2;
+    
+}
+
+button {
+  
+    margin-left: 20px;
+    background-color: #6d2e46;
+    border: #B33791;
+    border-radius: 12px;
+    padding: 5px;
+    margin-bottom: px;
+
+}
+
+button:hover {
+    box-shadow: 10px 10px 10px #FEC5F6, -10px -10px 10px #FEC5F6;
+
+}
+div.divall{
+    background-image: url(https://images.app.goo.gl/v2JWjQ1to2qGfCE58);
+}
+.bg {
+    position:absolute;
+    z-index: -1;
+    opacity: 0.4;
+    width: 1510px;
+    height: 500px;
+}
+div.divall div{
+    color:#ff33cc;
+    text-shadow: 2px  3px #F5F5F5, 4px 6px #56DFCF,5px 6px 10px red,6px 6px 6px blueviolet;
+    font-style: oblique;
+    font-family:serif;
+    font-size: 75px;
+    font-variant: small-caps;
+    padding-bottom: 25px;
+    
+    }
+    .div1{
+        padding-left: 500px;
+        padding-top: 50px;
+    }
+    .div2{
+    
+        padding-left: 200px;
+    }
+    .div3{
+        padding-left: 200px;
+    }
+    .content{
+        color:#37123c;
+        text-shadow: 2px 3px #dec0f1;
+        text-align: center;
+        line-height: 35px;
+        font-size: larger;
+        font-family:cursive;
+        text-transform:uppercase;
+        }
+        .clearfix{
+            background:#cebebe;
+        }
+    .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+  background:#358f80;
+}
+.footer{
+    text-align: center;
+    justify-content: center;
+    padding-top: 75px;
+    font-size: 50px;
+    color: #3b0f6b;
+    font-style: oblique;
+}

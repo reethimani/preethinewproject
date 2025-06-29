@@ -1,0 +1,261 @@
+.navbar{
+    position: sticky;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6d2e46;
+    display: flex;
+
+}
+
+li {
+    float: right;
+    
+
+}
+
+li a {
+    display: block;
+    color: #FBFBFB;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    
+}
+
+nav {
+  
+    z-index: 1;
+
+
+}
+
+button {
+    margin-left: 20px;
+    background-color: #6d2e46;
+    border: #B33791;
+    border-radius: 12px;
+    padding: 5px;
+    margin-bottom: px;
+
+}
+
+button:hover {
+    box-shadow: 10px 10px 10px #FEC5F6, -10px -10px 10px #FEC5F6;
+
+}
+.grid-container{
+     display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+ 
+    background:#a26769;
+  padding-top: 50px;
+
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 10px;
+
+}
+.grid-container4{
+     display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+ 
+    background: #a26769;
+  
+
+}
+
+.grid-container4 > div {
+  text-align: center;
+  padding: 10px;}
+
+.grid-container1{
+     display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  padding-left: 10px;
+  background: #a26769;
+}
+
+
+.grid-container1 > div {
+ 
+  text-align: center;
+  padding: 10px;
+
+}
+.grid-container6{
+     display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+ 
+    background: #a26769;
+ 
+
+}
+
+.grid-container6 > div {
+  text-align: center;
+  padding: 10px;}
+.grid-container2{
+     display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+  gap: 5px;
+  padding: 10px;
+  background:#a26769;
+
+}
+
+.grid-container2 > div {
+ 
+  text-align: center;
+  padding: 10px;
+    
+}
+.grid-container3{
+     display: grid;
+  grid-template-columns: auto auto ;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  background:#a26769;
+
+}
+
+.grid-container3 > div {
+ 
+  text-align: center;
+  padding: 10px;
+    
+}
+.grid-container5{
+     display: grid;
+  grid-template-columns: auto auto ;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  background: #a26769;
+
+}
+
+.grid-container5 > div {
+ 
+  text-align: center;
+  padding: 10px;
+    
+}
+.grid-container7{
+     display: grid;
+  grid-template-columns: auto auto ;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  background: #a26769;
+
+}
+
+.grid-container7 > div {
+ 
+  text-align: center;
+  padding: 10px;
+    
+}
+.grid-container8{
+     display: grid;
+  grid-template-columns: auto auto ;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  background: #a26769;
+
+}
+
+.grid-container8 > div {
+ 
+  text-align: center;
+  padding: 10px;
+    
+}.grid-container9{
+     display: grid;
+  grid-template-columns: auto auto ;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  background:#a26769;
+
+}
+
+.grid-container9 > div {
+ 
+  text-align: center;
+  padding: 10px;
+}
+.grid-container10{
+     display: grid;
+  grid-template-columns: auto auto ;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  background: #a26769;
+
+}
+
+.grid-container10 > div {
+ 
+  text-align: center;
+  padding: 10px;
+}
+.grid-container11{
+     display: grid;
+  grid-template-columns: auto auto ;
+  grid-template-rows: auto;
+  gap: 5px;
+  padding: 10px;
+  background: #a26769;
+
+}
+
+.grid-container11 > div {
+ 
+  text-align: center;
+  padding: 10px;
+}
+
+.img:hover {
+  
+ opacity: 0.3;
+
+}
+.footer{
+    text-align: center;
+    justify-content: center;
+    padding-top: 75px;
+    font-size: 50px;
+    color: #3b0f6b;
+    font-style: oblique;
+}
+.navbar{
+     position: sticky;
+    top: 0px;
+    padding: 10x;
+    z-index: 2;
+    
+}
+

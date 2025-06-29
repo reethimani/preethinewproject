@@ -1,0 +1,161 @@
+.navbar{
+    position: sticky;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6d2e46;
+    display: flex;
+
+}
+
+li {
+    float: right;
+    
+
+}
+
+li a {
+    display: block;
+    color: #FBFBFB;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    
+}
+
+nav {
+    
+    z-index: 1;
+
+
+}
+
+button {
+    margin-left: 20px;
+    background-color: #6d2e46;
+    border: #B33791;
+    border-radius: 12px;
+    padding: 5px;
+    
+
+}
+
+button:hover {
+    box-shadow: 10px 10px 10px #FEC5F6, -10px -10px 10px #FEC5F6;
+
+}
+.bgimg {
+    background-image: url(img/logbg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h3 {
+    font-variant: small-caps;
+    color: rgb(66, 11, 11);
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 3px 4px #93d2db;
+}
+
+h2 {
+    color: rgb(66, 11, 11);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 3px 4px 6px #eb34c9,2px 2px 2px orangered,2px 2px 2px yellow;
+}
+h1 {
+    color: rgb(66, 11, 11);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 3px 4px 6px #eb34c9,2px 2px 2px orangered,2px 2px 2px yellow, 
+    3px 4px 5px greenyellow,5px 5px 5px white,6px 6px yellow;
+}
+#form1{
+    background-color: rgba(240, 182, 197,0.5);
+    border: solid;
+    border-radius: 8PX;
+    border-color: rgb(214, 148, 50);
+    border-style: solid;
+    position: relative;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    padding: 30px;
+
+}
+
+
+.box {
+    background-color: rgba(127, 255, 212,0.2);
+
+    border-radius: 8px;
+    border: 2px solid;
+    text-align: left;
+    border-color: #eb34c9;
+    color: black;
+    height: 25px;
+    width: 300px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+button.log {
+    background-color: rgb(183, 233, 216);
+    opacity: o.2;
+    border-radius: 8px;
+    border: 2px solid;
+    text-align: center;
+    border-color: #eb34c9;
+    color: black;
+    height: 40px;
+    width: 200px;
+    margin-left: 150px;
+    margin-right: 200px;
+}
+.radio{
+    margin-left:px;
+}
+.radio1{
+    margin-left:px;
+}
+
+.radio2{
+    margin-left: 220px;
+}
+button.para1
+{
+    background-color: rgba(227, 223, 233,0.5);
+    
+    border-radius: 8px;
+    border: 2px solid;
+    text-align: center;
+    border-color: #eb34c9;
+    color: black;
+    height: 28px;
+    font-size: 13px;
+    width: 100px;
+
+}
+.para2{
+    padding-left: 250px;
+}
+.navbar{
+     position: sticky;
+    top: 0px;
+    padding: 10x;
+    z-index: 2;
+    
+    
+}
